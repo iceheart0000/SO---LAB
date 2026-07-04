@@ -1,3 +1,3 @@
 # SO-LAB
 
-Zbiór zadań w Bashu i Pythonie do laboratorium z Systemów Operacyjnych.
+Zbiór zadań w Bashu i Pythonie z laboratorium z Systemów Operacyjnych.
